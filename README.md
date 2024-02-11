@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atul Kumar Vishwakarma
-- 👀 I’m Data Science.
-- 🌱 Know Python and currently learning MySQL and PySpark.
-- 💞️ I’m looking for Internship or Job in Data Science.
+- 👀 I’m an Machine Learning Engineer.
+- 🌱 Know Python.
+- 💞️ I’m looking for Oppurtunities in Artificial intelligence.
 - 📫 you can reach me on akv.net@gmail.com
 
 <!---
